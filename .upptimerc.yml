@@ -3,9 +3,10 @@ owner: larrikin-coder # Your GitHub organization or username, where this reposit
 repo: upptime # The name of this repository
 
 sites:
-  - name: Portfolio-Website
+  - name: Portfolio-Website-Fe
     url: https://portfolio-website-rho-sand.vercel.app
-
+  - name: Portfolio-Website-Be
+    url: https://portfolio-website-tdvz.onrender.com
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
