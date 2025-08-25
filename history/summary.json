@@ -4,19 +4,19 @@
     "url": "https://portfolio-website-rho-sand.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/portfolio-website-rho-sand.vercel.app.ico",
     "slug": "portfolio-website-fe",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 150,
-    "timeDay": 168,
-    "timeWeek": 158,
+    "timeDay": 158,
+    "timeWeek": 157,
     "timeMonth": 150,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2025-08-25": 0
+      "2025-08-25": 5
     }
   },
   {
