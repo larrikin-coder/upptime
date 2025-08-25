@@ -4,7 +4,7 @@
     "url": "https://portfolio-website-rho-sand.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/portfolio-website-rho-sand.vercel.app.ico",
     "slug": "portfolio-website-fe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 158,
     "timeMonth": 150,
     "timeYear": 150,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-25": 0
+    }
   },
   {
     "name": "Portfolio-Website-Be",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/portfolio-website-tdvz.onrender.com.ico",
     "slug": "portfolio-website-be",
     "status": "down",
-    "uptime": "88.53%",
+    "uptime": "88.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.53%",
-    "uptimeYear": "88.53%",
+    "uptimeMonth": "88.66%",
+    "uptimeYear": "88.74%",
     "time": 406,
     "timeDay": 269,
     "timeWeek": 380,
