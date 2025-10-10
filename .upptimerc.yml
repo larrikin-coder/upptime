@@ -11,6 +11,8 @@ sites:
     url: https://excel-mcp-b7mo.onrender.com
   - name: Excel-LLM-Be
     url: https://excel-mcp-server-34g5.onrender.com
+  - name: SeedheAuth-Docs
+    url: https://seedheauth.netlify.app
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
