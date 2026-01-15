@@ -54,19 +54,19 @@
     "url": "https://excel-mcp-b7mo.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/excel-mcp-b7mo.onrender.com.ico",
     "slug": "excel-llm-fe",
-    "status": "up",
-    "uptime": "70.12%",
-    "uptimeDay": "93.47%",
-    "uptimeWeek": "92.81%",
-    "uptimeMonth": "41.05%",
-    "uptimeYear": "70.12%",
+    "status": "down",
+    "uptime": "70.15%",
+    "uptimeDay": "94.08%",
+    "uptimeWeek": "92.91%",
+    "uptimeMonth": "41.25%",
+    "uptimeYear": "70.15%",
     "time": 3413,
-    "timeDay": 3879,
-    "timeWeek": 4664,
+    "timeDay": 4606,
+    "timeWeek": 4275,
     "timeMonth": 5117,
     "timeYear": 3413,
     "dailyMinutesDown": {
-      "2026-01-15": 64,
+      "2026-01-15": 66,
       "2026-01-14": 161,
       "2026-01-13": 97,
       "2026-01-12": 172,
@@ -135,7 +135,7 @@
       "2025-11-05": 45,
       "2025-11-04": 38,
       "2025-11-03": 19,
-      "2025-11-01": 58
+      "2025-11-01": 36
     }
   },
   {
